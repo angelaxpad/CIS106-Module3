@@ -1,4 +1,4 @@
-amount_received = float(input("Enter amoun received: ")
+amount_received = float(input("Enter amoun received: "))
 
 each_one = amount_received / 3
 
