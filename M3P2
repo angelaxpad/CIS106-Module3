@@ -2,7 +2,7 @@ last_name = input("Enter student's last name: ")
 midterm = float(input("Enter midterm exam score: "))
 final = float(input("Enter final exam score: "))
 
-total = (midterm x 0.40) + (final x 0.60)
+total = (midterm * 0.40) + (final * 0.60)
 
 print = (f"Student's last name: {last_name}")
 print = (f"Total exam points: {total: .2f}")
