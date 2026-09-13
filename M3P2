@@ -4,6 +4,6 @@ final = float(input("Enter final exam score: "))
 
 total = (midterm * 0.40) + (final * 0.60)
 
-print = (f"Student's last name: {last_name}")
-print = (f"Total exam points: {total: .2f}")
+print(f"Student's last name: {last_name}")
+print(f"Total exam points: {total: .2f}")
 
