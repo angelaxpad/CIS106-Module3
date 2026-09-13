@@ -1,0 +1,7 @@
+radius = float(input("Enter radious: "))
+
+area = 3.14 * radius * radius
+perimeter = 2 * 3.14 * radius 
+
+print(f"Enter area: {area: .2f}")
+print(f"Enter perimeter: {perimeter: .2f}")
