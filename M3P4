@@ -4,7 +4,7 @@ msrp = float(input("Enter MSRP: "))
 discount_percet = float(input("Enter discount percent as a decimal: "))
 
 amount_off = msrp * discount_percent
-discounted_price = msrp - amount off
+discounted_price = msrp - amount_off
 
 print(f"Car: {make} {model}")
 print(f"MSRP: ${msrp: .2f}")
