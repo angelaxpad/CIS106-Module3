@@ -1,5 +1,7 @@
 ticker = input("Enter stock ticker symbol: ")
 shares = int(input("Enter number of shares: ")
 cost float = float(input("Enter cost per share: ") 
+
 amount_invested = shares * cost
+
 ptint(f"Amount invested: ${amount_invested: .2f}")
